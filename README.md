@@ -1,7 +1,6 @@
 # Luxury_Wheels
 Criando site de aluguel de carros
 
-# LuxuryWheels
 
 Aplicação web desenvolvida com Django para gerenciamento de aluguel de veículos. O sistema permite cadastro de usuários, autenticação, listagem e filtragem de veículos, criação de reservas, cálculo automático de valores e controle de disponibilidade.
 
